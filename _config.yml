@@ -139,9 +139,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lzw2015
-    repo: notes
-    clientID: 546af421502e14197631
-    clientSecret: 002fba477512227d876ebac9c64afc7fc4704156
+    repo: blog-comments
+    clientID: 49982da7f54fbf101e27
+    clientSecret: 90162a1e6a1dbf84508715fe05c66e8cedc8cce9
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
