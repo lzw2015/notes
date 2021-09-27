@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/lzw2015
+url: https://lzw2015.github.io/notes/
 date_format: "ordinal"
 title: 觉知
 subtitle: "人生就是消除模糊的比赛"
@@ -75,17 +75,6 @@ navs:
 #     href: /open-source/
 #     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
-
-  -
-    href: /links/
-    label: 链接
-
-  -
-    href: /about/
-    label: 关于
 
 # ---------------- #
 #       RSS        #
