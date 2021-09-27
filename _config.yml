@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://github.com/lzw2015
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 觉知
+subtitle: "人生就是消除模糊的比赛"
+description: ""
+keywords: 觉知, lzw2015
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: lzw2015/notes
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -36,8 +36,8 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
-        image_alt: 闷骚的程序员
+        enabled: false
+        image_alt: 觉知
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -48,12 +48,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: YiQian Li
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: lzw2015
+location: Beijing, China
+email: lzw20150719@163.com
 
 # ---------------- #
 #    Navigation    #
